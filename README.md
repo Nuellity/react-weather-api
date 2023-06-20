@@ -7,6 +7,8 @@ Our GitHub repository houses a professional React app that provides real-time we
 ## Screen Snapshots
 
 <p float="left">
+  <img src="https://i.imgur.com/vCm447r.png" width=400  style="border-radius: 10px;" />
+    <img src="https://i.imgur.com/euKkiia.png" height=300  style="border-radius: 10px;" />
   <img src="https://i.imgur.com/6z3tbdM.jpg" width=400  style="border-radius: 10px;" />
   <img src="https://i.imgur.com/fxhsW2x.jpg" height=300  style="border-radius: 10px;" />
  
