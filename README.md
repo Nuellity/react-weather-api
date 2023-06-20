@@ -108,4 +108,4 @@ Contributions are welcome! Please open an issue or a pull request if you have an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nuellity/e-commerce-fullstack/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nuellity/react-weather-api/blob/main/LICENSE) file for details.
